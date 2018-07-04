@@ -202,18 +202,5 @@ body, html {
 	color: lightgrey;
 }
 
-@viewport {
-  width: device-width ;
-  zoom: 1.0 ;
-}
 
-@-ms-viewport {
-  width: device-width ;
-}
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> parent of 04e7783... view2
 	
