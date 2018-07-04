@@ -51,8 +51,6 @@ body, html {
     background-size: cover;
     position: relative;
 	margin: 0vw;
-	top: 0%;
-	Overflow: show;
 }
 
 /* Place text in the middle of the image */
@@ -213,6 +211,9 @@ body, html {
   width: device-width ;
 }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> parent of 04e7783... view2
 	
