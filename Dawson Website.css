@@ -176,7 +176,7 @@ body, html {
 	margin-right: auto;
     text-align: center;
     position: relative;
-    top: 2%;
+    top: 50%;
 	Left: 50%;
     transform: translate(-50%, -50%);
     color: red;
