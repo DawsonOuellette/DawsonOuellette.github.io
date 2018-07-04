@@ -212,6 +212,7 @@ body, html {
 @media only screen and (max-width: 600px) {
     .hero-image3 {
         top: 100vw;
+		display: block;
     }
 }
 
