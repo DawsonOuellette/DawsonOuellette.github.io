@@ -209,10 +209,6 @@ body, html {
   width: device-width ;
 }
 
-@media only screen and (max-width: 600px) {
-    .hero-image3 {
-        padding-top: 100vw;
-    }
-}
+
 
 	
