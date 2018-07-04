@@ -176,8 +176,8 @@ body, html {
 	margin-right: auto;
     text-align: center;
     position: relative;
-    top: 25%;
-	left: 50%
+    top: 2%;
+	Left: 50%;
     transform: translate(-50%, -50%);
     color: red;
 }
@@ -191,6 +191,8 @@ body, html {
 	font-size: 1.5vw;
 	font-family: Oswald;
 	color: lightgrey;
+	margin-left: 25%;
+	margin-right: 25%;
 }
 	
 .hero-image3 img{
@@ -213,7 +215,7 @@ body, html {
 	margin-left: auto;
 	margin-right: auto;
     position: relative;
-    top: 12%;
+    top: 15%;
     transform: translate(-50%, -50%);
     color: red;
 }
