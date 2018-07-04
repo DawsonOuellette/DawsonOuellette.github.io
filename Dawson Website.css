@@ -176,6 +176,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     color: red;
+	Overflow: hidden;
 }
 
 .hero-text3 h1{
