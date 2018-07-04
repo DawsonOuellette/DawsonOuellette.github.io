@@ -211,8 +211,7 @@ body, html {
 
 @media only screen and (max-width: 600px) {
     .hero-image3 {
-        margin-top: 50vw;
-		display: block;
+        padding-top: 100vw;
     }
 }
 
