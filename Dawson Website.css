@@ -3,6 +3,7 @@
 .topnav {
     background-color: Red;
     overflow: hidden;
+	margin-bottom: 0vw
 }
 
 /* Style the links inside the navigation bar */
@@ -15,6 +16,7 @@
     font-size: 2vw;
 	font-family: Oswald;
 	padding: 1vw;
+	margin-bottom: 0vw
 }
 
 /* Change the color of links on hover */
@@ -49,6 +51,7 @@ body, html {
     background-size: cover;
     position: relative;
 	margin: 0vw;
+	top: 100%
 }
 
 /* Place text in the middle of the image */
