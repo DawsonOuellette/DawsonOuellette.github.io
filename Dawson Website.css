@@ -174,7 +174,7 @@ body, html {
 	margin-bottom: 0vw;
     text-align: center;
     position: relative;
-    top: 40%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: red;
@@ -202,5 +202,19 @@ body, html {
 	color: lightgrey;
 }
 
+/* Place text in the middle of the image */
+
+@media only screen and (max-width: 600px) {
+.hero-text3 {
+	margin-bottom: 0vw;
+    text-align: center;
+    position: relative;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+
+}
 
 	
