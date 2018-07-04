@@ -176,7 +176,6 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     color: red;
-	Overflow: hidden;
 }
 
 .hero-text3 h1{
@@ -212,7 +211,7 @@ body, html {
 
 @media only screen and (max-width: 600px) {
     .hero-image3 {
-        top: 200vw;
+        top: 100vw;
     }
 }
 
