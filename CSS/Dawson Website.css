@@ -1,0 +1,202 @@
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: Red;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: Snow;
+    text-align: center;
+    padding: 1vw 1vw;
+    text-decoration: none;
+    font-size: 2vw;
+	font-family: Oswald;
+	padding: 1vw;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: blue;
+    color: snow;
+	transition: .3s;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: black;
+    color: white;
+}
+
+body, html {
+    height: 100%;
+	background-color: black;
+}
+
+/* The hero image */
+.hero-image {
+    /* The image used */
+    background-image: url("http://compactdrums.com/wp-content/uploads/2015/09/Black-White-Drum-Wallpaper-HD.jpg");
+
+    /* Set a specific height */
+    height: 50vw;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	margin: 0vw;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+
+.hero-text h1{
+	font-family: Carter One;
+	font-size: 3.5vw;
+}
+
+.hero-text p{
+	font-size: 2vw;
+	font-family: oswald;
+	background-color: black;
+}
+
+.hero-text button{
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	background-color: red;
+	font-family: carter one;
+	border-style: none;
+	color: snow;
+	font-size: 2vw;
+	transition: .3s;
+}
+
+.hero-text button:hover{
+	background-color: blue;
+	transition: .3s;
+	font-size: 2.5vw;
+}
+
+.hero-image2{
+    /* The image used */
+    background-image: url("https://wallpapercave.com/wp/zlLmiEJ.jpg");
+
+    /* Set a specific height */
+    height: 40vw;
+	margin: 0vw;
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-container{
+	width: 50%;
+	height: 100%;
+	background-color: Black;
+}
+
+.hero-container h1{ 
+	font-size: 2.25vw;
+	font-family: Carter One;
+	color: Red;
+	float: center;
+	margin-top: 0vw;
+	margin: 1vw;
+}
+
+
+.hero-container p{
+	font-size: 1.75vw;
+	font-family: Oswald;
+	color: lightgray;
+	margin: 1vw;
+	float: center;
+}
+
+.hero-container u{
+	color: red;
+}
+
+.hero-container button{
+	border-style: none;
+	background-color: red;
+	color: snow;
+	font-family: Carter One;
+	font-size: 2vw;
+	padding: 1vw;
+	position: absolute;
+	left: 65%;
+	bottom: 40%;
+	transition: .3s;
+}
+
+.hero-container button:hover{
+	background-color: blue;
+	font-size: 2.5vw;
+	transition: .3s;
+}
+.hero-image3 {
+    /* The image used */
+    background-image: url("https://wallpapercave.com/wp/fYv0bUt.jpg");
+
+    /* Set a specific height */
+    height: 350%;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    position: relative;
+	margin: 0vw;
+	Margin-bottom: 0vw;
+}
+
+/* Place text in the middle of the image */
+.hero-text3 {
+	margin-bottom: 0vw;
+    text-align: center;
+    position: absolute;
+    top: 75vw;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: red;
+}
+
+.hero-text3 h1{
+	font-size: 3.5vw;
+	font-family: Carter One;
+}
+	
+.hero-text3 p {
+	font-size: 1.5vw;
+	font-family: Oswald;
+	color: lightgrey;
+}
+	
+.hero-image3 img{
+	width: 60vw;
+	height: 60vw
+}
+
+.hero-text3 ul{
+	font-family: Oswald;
+	font-size: 1.5vw;
+	color: lightgrey;
+}
+	
